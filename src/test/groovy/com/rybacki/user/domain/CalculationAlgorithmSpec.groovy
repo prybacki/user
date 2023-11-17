@@ -3,7 +3,7 @@ package com.rybacki.user.domain
 import spock.lang.Specification
 import spock.lang.Unroll
 
-class CalculationAlgorithmTest extends Specification {
+class CalculationAlgorithmSpec extends Specification {
 
     def calculationAlgorithm = new CalculationAlgorithm()
 
